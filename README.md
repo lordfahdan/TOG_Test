@@ -17,3 +17,12 @@ ___
 
 
 ## 2. Design: Dashboard Vending Machine
+
+### Tech Stack: 
+
+1. VueJS
+2. Pinia
+3. Vue + Vite server
+4. Fortawesome -> Font Awesome 5 Free
+5. Vue-slick-carousel
+6. @iconify
